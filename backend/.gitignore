@@ -1,0 +1,8 @@
+.env
+.venv-power
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
